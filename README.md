@@ -1,2 +1,1 @@
-# Hello-World
-First programme
+Programme in python
